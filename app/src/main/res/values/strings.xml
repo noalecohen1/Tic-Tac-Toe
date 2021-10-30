@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="activity_main_home_title">Tic-Tac-Toe</string>
+    <string name="activity_main_play_button">PLAY</string>
+
+    <string name="player_setup_title">Enter Your Names</string>
+    <string name="player_setup_submit_button">Submit Names</string>
+    <string name="player_setup_names_hint">Enter Your Name</string>
+    <string name="player_setup_names_label1">Player1</string>
+    <string name="player_setup_names_label2">Player2</string>
+
+    <string name="game_display_play_again_button">Play Again</string>
+    <string name="game_display_home_button">Home</string>
+
+</resources>
