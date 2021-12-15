@@ -2,4 +2,4 @@
 Tic-Tac-Toe implemented with Java
 
 
-<img src="images/demo.gif" width=350>
+<img src="demo.gif" width=350>
